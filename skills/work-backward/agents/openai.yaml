@@ -1,0 +1,4 @@
+interface:
+  display_name: "Work Backward"
+  short_description: "Turn goals into proof and a backward plan"
+  default_prompt: "Use $work-backward to interview me one question at a time, define verifiable success, and build a plan backward from the result."

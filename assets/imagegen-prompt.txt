@@ -1,0 +1,11 @@
+Create the COMPLETE final animated GIF file for a GitHub README header about an AI skill called "Work Backward". The requested deliverable is an actual animated GIF with multiple time frames and an infinite seamless loop. Generate the whole GIF directly. Do not make a sprite sheet, contact sheet, storyboard, static poster, collage, or separate frames.
+
+Visual style: a polished minimal editorial tech banner, wide 960 by 360 canvas, warm off-white background, deep ink typography, one electric-blue accent, generous spacing, crisp large sans-serif text. No logos, stock photos, characters, or decorative clutter. All artwork and text should be generated as part of the finished animation.
+
+Animate a clear 12-second story in four readable beats:
+1. Opening: small fixed title "WORK BACKWARD", then a simple user message: "I want it to be great."
+2. A single assistant question arrives: "What would prove it worked?" Keep only one question visible.
+3. The message transforms into a clear result card labeled "DONE" at the right. A blue path draws backward from that destination toward the left, revealing in sequence the cards "PROOF", "NEEDS", and "START". The viewer should see the plan being discovered from the finished result backward to the first action. Use only these short exact card labels.
+4. Highlight "START" and reveal the short closing line: "Define the finish. Find the first step." Hold long enough to read, then smoothly return to the opening scene.
+
+Make the temporal animation real: reveal text and cards over time, animate the path extending backward, and produce a genuine looping animated GIF container. The final output must be the complete moving banner, not a still-image representation of the animation.
